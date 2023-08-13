@@ -1,4 +1,4 @@
-# Image_cropping_with_openCV
+# cv2-image-cropper: Simplifying Image Cropping with OpenCV
 
 cv2-image-cropper is a Python script that uses the OpenCV library (cv2) to easily crop images. Quickly select the region of interest in your image using a graphical user interface, and the script will automatically crop the image to your desired dimensions. 
 Save time and streamline your image editing workflow with cv2-image-cropper
